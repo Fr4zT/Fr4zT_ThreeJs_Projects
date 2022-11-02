@@ -1,4 +1,4 @@
-# Fr4zT_ThreeJs_Projects
+# Fr4zT ThreeJs Projects
 Collection of my three.js projects
 
 Endless Tiles:
